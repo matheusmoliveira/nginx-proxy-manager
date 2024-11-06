@@ -7,6 +7,10 @@ Este script automatiza a instalação do Docker, a remoção do Apache2 (se inst
 - Sistema operacional: Debian 12.7.0
 - Permissões de superusuário (sudo)
 
+## RPKI Web
+
+![Logo do Projeto](img/proxy_login.png)
+
 ## Funcionalidades
 
 - Verifica se o Docker está instalado e, se não estiver, instala-o.
