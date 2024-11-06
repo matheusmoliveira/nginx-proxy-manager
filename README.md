@@ -70,10 +70,14 @@ Apache2 foi removido com sucesso.
 NGINX Proxy Manager foi configurado e está em execução.
 ```
 
-## Autor
-
-- Matheus Marinho de Oliveira
-
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este script é liberado sob a Licença MIT.
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para enviar um pull request ou abrir uma issue para melhorar o script ou adicionar novos recursos.
+
+## Suporte
+
+Se você encontrar algum problema ou tiver perguntas, por favor, abra uma issue neste repositório ou entre em contato com a equipe de suporte.
